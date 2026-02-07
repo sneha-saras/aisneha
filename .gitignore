@@ -16,6 +16,9 @@ Thumbs.db
 .env
 .env.local
 
+# Configuration files with secrets
+config.js
+
 # Node modules (if you add any later)
 node_modules/
 
